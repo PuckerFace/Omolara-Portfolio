@@ -85,7 +85,7 @@ export default function LinkedInPosts() {
 
   return (
     <section
-      id="linkedin"
+      id="posts"
       ref={rootRef}
       className="relative container-pad py-24 md:py-36"
     >
