@@ -216,9 +216,9 @@ export const ABOUT: AboutContent = {
   eyebrow: 'About',
   heading: 'The person behind the model',
   paragraphs: [
-    "I'm a Data Scientist and AI Engineer who thinks in distributions, but works in people. Most of my career has been spent doing two things at once: building ML and AI systems that need to survive contact with messy, real-world data, and teaching Python, data science, and AI to learners ranging from curious teenagers to working adults changing careers.",
+    "I'm a Data Scientist and AI Engineer who not only builds models, but works with people. Most of my career has been spent doing two things at once: building ML and AI systems and teaching Python, data science, and AI to learners ranging from curious teenagers to working adults changing careers.",
     "I'm also an emotional intelligence advocate — which sounds like an unusual line on a data scientist's bio, until you've sat in enough model reviews and classrooms to notice that the hardest part of this work is rarely the math. It's communication, trust, and reading a room. I bring that lens into how I build, how I explain, and how I teach.",
-    'My niche is the overlap: I build AI solutions and train the next generation of data and AI professionals using practical, real-world projects — not toy datasets and slide theory.',
+    'My niche is the overlap: I build AI solutions and train the next generation of data and AI professionals. I ship models, and I ship learners who can ship models too.',
   ],
   pillars: [
     {
