@@ -164,15 +164,15 @@ export const SOCIAL_LINKS: SocialLink[] = [
     href: 'https://github.com/Omolara-EB',
     handle: '@omolarabello',
   },
-  {
-    label: 'Twitter / X',
-    href: 'https://twitter.com/omolarabello',
-    handle: '@omolarabello',
-  },
+  // {
+  //   label: 'Twitter / X',
+  //   href: 'https://twitter.com/omolarabello',
+  //   handle: '@omolarabello',
+  // },
   {
     label: 'Email',
-    href: 'mailto:hello@omolarabello.dev',
-    handle: 'hello@omolarabello.dev',
+    href: 'mailto:omolarabello82@gmail.com',
+    handle: 'omolarabello82@gmail.com',
   },
 ];
 
@@ -440,8 +440,8 @@ export const CONTACT: ContactContent = {
   heading: "Let's build or teach something",
   description:
     "Open to ML/AI engineering roles, consulting engagements, and speaking or teaching opportunities. If it involves data, AI, or the people learning to work with them, I'd like to hear about it.",
-  ctaLabel: 'hello@omolarabello.dev',
-  ctaHref: 'mailto:hello@omolarabello.dev',
+  ctaLabel: 'Say hello - omolarabello82@gmail.com',
+  ctaHref: 'mailto:omolarabello82@gmail.com',
 };
 
 export const FOOTER: FooterContent = {
